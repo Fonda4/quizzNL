@@ -1,7 +1,5 @@
-[Click here to download the latest version](https://github.com/Fonda4/quizzNL/blob/main/app-debug.apk)
+[Download the english version](https://github.com/Fonda4/quizzNL/blob/main/application/app_quizzENglish.apk?raw=true)
 
+[Download the dutch version](https://github.com/Fonda4/quizzNL/raw/main/application/quizz_NL.apk)
 
-
-
-[![pas ici celui du dessus](https://shields.io)]([https://github.com](https://github.com/Fonda4/quizzNL/blob/main/app-debug.apk))
 
